@@ -114,7 +114,7 @@ const Hobbies = () => {
                 Gaming
               </Card.Title>
               <Card.Text style={{ fontSize: '1rem' }}>
-                I love playing mobile games as they serve as a perfect stress reliever, helping me relax and recharge while enjoying some fun and engaging challenges.
+                I love playing mobile games as they serve as a perfect stress reliever,it  helps me relax and recharge while enjoying some fun and engaging challenges.
               </Card.Text>
             </Card.Body>
           </Card>
