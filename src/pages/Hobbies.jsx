@@ -7,7 +7,7 @@ const Hobbies = () => {
       fluid
       className="py-5"
       style={{
-        backgroundColor: '#013220', // Dark green background
+        backgroundColor: '#333', // Dark gray background color
         color: '#f9f9f9', // Light text for contrast
         textAlign: 'center',
         fontFamily: "'Roboto', sans-serif",
@@ -126,7 +126,7 @@ const Hobbies = () => {
         className="text-center mt-5"
         style={{
           backgroundColor: '#ffc107', // Yellow footer background
-          color: '#013220', // Dark green text for contrast
+          color: '#333', // Dark gray text for contrast
           padding: '20px',
           borderRadius: '10px',
         }}

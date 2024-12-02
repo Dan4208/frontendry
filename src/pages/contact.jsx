@@ -24,7 +24,7 @@ const Contact = () => {
       fluid
       className="py-5"
       style={{
-        backgroundColor: '#001f3f', // Dark blue background
+        backgroundColor: '#333', // Dark gray background
         color: '#ffffff', // Light text for contrast
         textAlign: 'center',
       }}
@@ -39,7 +39,7 @@ const Contact = () => {
             onSubmit={handleSubmit}
             style={{
               backgroundColor: '#ffffff', // White form background for contrast
-              color: '#001f3f', // Dark blue text inside the form
+              color: '#333', // Dark gray text inside the form
               padding: '20px',
               borderRadius: '10px',
             }}
@@ -78,7 +78,7 @@ const Contact = () => {
               />
             </Form.Group>
 
-            <Button variant="primary" type="submit" style={{ backgroundColor: '#ffc107', color: '#001f3f' }}>
+            <Button variant="primary" type="submit" style={{ backgroundColor: '#ffc107', color: '#333' }}>
               Send Message
             </Button>
           </Form>

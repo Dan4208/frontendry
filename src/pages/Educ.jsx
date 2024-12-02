@@ -7,7 +7,7 @@ const Educ = () => {
       fluid
       className="py-5"
       style={{
-        backgroundColor: '#4e342e', // Dark brown background color
+        backgroundColor: '#333', // Dark gray background color
         color: '#f9f9f9', // Light text color for contrast
         textAlign: 'center',
         fontFamily: "'Roboto', sans-serif", // Clean, modern font
@@ -21,7 +21,7 @@ const Educ = () => {
       <Container
         className="mb-5 p-4"
         style={{
-          backgroundColor: 'rgba(255, 193, 7, 0.1)',
+          backgroundColor: 'rgba(255, 193, 7, 0.1)', // Light accent background for cards
           border: '2px solid rgba(255, 193, 7, 0.5)',
           borderRadius: '15px',
         }}
@@ -51,7 +51,7 @@ const Educ = () => {
       <Container
         className="mb-5 p-4"
         style={{
-          backgroundColor: 'rgba(255, 193, 7, 0.1)',
+          backgroundColor: 'rgba(255, 193, 7, 0.1)', // Light accent background for cards
           border: '2px solid rgba(255, 193, 7, 0.5)',
           borderRadius: '15px',
         }}
@@ -81,7 +81,7 @@ const Educ = () => {
       <Container
         className="mb-5 p-4"
         style={{
-          backgroundColor: 'rgba(255, 193, 7, 0.1)',
+          backgroundColor: 'rgba(255, 193, 7, 0.1)', // Light accent background for cards
           border: '2px solid rgba(255, 193, 7, 0.5)',
           borderRadius: '15px',
         }}
@@ -111,7 +111,7 @@ const Educ = () => {
       <Container
         className="mb-5 p-4"
         style={{
-          backgroundColor: 'rgba(255, 193, 7, 0.1)',
+          backgroundColor: 'rgba(255, 193, 7, 0.1)', // Light accent background for cards
           border: '2px solid rgba(255, 193, 7, 0.5)',
           borderRadius: '15px',
         }}
@@ -141,7 +141,7 @@ const Educ = () => {
       <Container
         className="mt-5 p-4"
         style={{
-          backgroundColor: 'rgba(255, 193, 7, 0.1)',
+          backgroundColor: 'rgba(255, 193, 7, 0.1)', // Light accent background for cards
           border: '2px solid rgba(255, 193, 7, 0.5)',
           borderRadius: '15px',
         }}
